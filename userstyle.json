@@ -1,13 +1,13 @@
 {
-  "name": "Loja Integrada | Thiago Braga",
-  "description": "Live reloading styles for Loja Integrada",
+  "name": "Boilerplate for Userstyles",
+  "description": "Boilerplate to create userstyles with LiveReload feature.",
   "author": "Thiago Braga <contato@thiagobraga.org>",
   "namespace": "https://github.com/thiagobraga",
-  "homepageURL": "https://github.com/thiagobraga/loja-integrada",
-  "supportURL": "https://github.com/thiagobraga/loja-integrada/issues",
-  "updateBaseURL": "https://github.com/thiagobraga/loja-integrada/raw/master/release/",
+  "homepageURL": "https://github.com/thiagobraga/boilerplate-userstyles",
+  "supportURL": "https://github.com/thiagobraga/boilerplate-userstyles/issues",
+  "updateBaseURL": "https://github.com/thiagobraga/boilerplate-userstyles/raw/master/release/",
   "license": "MIT",
   "match": {
-    "domain": "thiagobraga.lojaintegrada.com.br"
+    "domain": "localhost"
   }
 }
