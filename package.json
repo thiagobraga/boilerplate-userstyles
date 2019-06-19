@@ -1,18 +1,18 @@
 {
-  "name": "google-calendar-userstyles",
-  "description": "🗓 One Dark theme for Google Calendar 2019",
+  "name": "boilerplate-userstyles",
+  "description": "A boilerplate for creating userstyles easily",
   "author": "Thiago Braga <contato@thiagobraga.org>",
-  "version": "0.0.6",
+  "version": "0.0.1",
   "private": true,
   "license": "MIT",
   "userstyle": {
-    "name": "Google Calendar One Dark",
+    "name": "Boilerplate Userstyles",
     "namespace": "https://github.com/thiagobraga",
-    "homepageURL": "https://github.com/thiagobraga/google-calendar-userstyles",
-    "supportURL": "https://github.com/thiagobraga/google-calendar-userstyles/issues",
-    "updateBaseURL": "https://github.com/thiagobraga/google-calendar-userstyles/raw/master/",
+    "homepageURL": "https://github.com/thiagobraga/boilerplate-userstyles",
+    "supportURL": "https://github.com/thiagobraga/boilerplate-userstyles/issues",
+    "updateBaseURL": "https://github.com/thiagobraga/boilerplate-userstyles/raw/master/",
     "match": {
-      "domain": "calendar.google.com"
+      "domain": "domain.com"
     }
   },
   "devDependencies": {
