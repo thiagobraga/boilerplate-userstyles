@@ -1,5 +1,3 @@
-theme.dev.user.css
-
 # Created by https://www.gitignore.io/api/osx,node,sass,linux,windows,visualstudiocode
 
 ### Linux ###
@@ -160,5 +158,3 @@ $RECYCLE.BIN/
 
 
 # End of https://www.gitignore.io/api/osx,node,sass,linux,windows,visualstudiocode
-
-layout/
