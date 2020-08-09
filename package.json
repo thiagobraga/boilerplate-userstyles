@@ -2,7 +2,7 @@
   "name": "boilerplate-userstyles",
   "description": "A boilerplate for creating userstyles easily",
   "author": "Thiago Braga <contato@thiagobraga.org>",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": true,
   "license": "MIT",
   "userstyle": {
@@ -16,12 +16,15 @@
     }
   },
   "devDependencies": {
-    "autoprefixer": "^9.5.1",
-    "chokidar-cli": "^1.2.2",
-    "cssnano": "^4.1.10",
-    "font-awesome": "^4.7.0",
-    "postcss-cli": "^6.1.2",
-    "stylus": "^0.54.5",
-    "userstyle-gen": "^0.1.2"
+    "autoprefixer": "9.7.6",
+    "chokidar-cli": "2.1.0",
+    "font-awesome": "4.7.0",
+    "postcss-cli": "7.1.0",
+    "stylus": "0.54.7",
+    "userstyle-gen": "0.1.2"
+  },
+  "resolutions": {
+    "**/**/minimist": ">=1.2.3",
+    "**/**/yargs-parser": ">=13.1.2 <14.0.0 || >=15.0.1 <16.0.0 || >=18.1.2"
   }
 }
