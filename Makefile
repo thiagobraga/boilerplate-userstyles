@@ -4,10 +4,10 @@ PATH := ${PWD}/node_modules/.bin:$(PATH)
 all: install build watch
 
 clean:
-	/bin/rm -rf node_modules
+	/bin/rm -rf node_modules yarn*
 
 install:
-	[ ! -d node_modules ] && yarn && exit
+	yarn
 
 build:
 	stylus src/styles -o theme.css

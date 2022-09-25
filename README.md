@@ -43,21 +43,3 @@ These colors can be used in sidebar calendars.
   <img src="https://img.shields.io/static/v1?message=%23fffced&label=&labelColor=fffced&logoColor=666666&logo=google&color=transparent&style=for-the-badge" /><br>
   <img src="https://img.shields.io/static/v1?message=%23eaeaea&label=&labelColor=eaeaea&logoColor=666666&logo=google&color=transparent&style=for-the-badge" /><br>
 </p>
-
-### Color codes
-
-```
-#5d616d
-#596581
-#b39ddb
-#b43a35
-#e67c73
-#e5a772
-#b2ca9d
-#fffced
-#eaeaea
-```
-
-## More screenshots
-
-> Soon...
