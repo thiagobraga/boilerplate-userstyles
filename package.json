@@ -2,7 +2,7 @@
   "name": "boilerplate-userstyles",
   "description": "A boilerplate for creating userstyles easily",
   "author": "Thiago Braga <thi@thiagobraga.dev>",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "private": true,
   "license": "MIT",
   "userstyle": {
